@@ -2,7 +2,6 @@ package Banner_Assignment;
 
 public class UC4 {
 
-    // UC4.2
     static class CharacterPatternMap {
         Character character;
         String[] pattern;
